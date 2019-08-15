@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/gastoDinheiro"
+        android:title="Gasto dinheiro" />
+    <item
+        android:id="@+id/gastoCartao"
+        android:title="Gasto Cartão" />
+    <item
+        android:id="@+id/listaGastos"
+        android:title="Lista de Gastos" />
+    <item
+        android:id="@+id/configCarteira"
+        android:title="Configura Pagamento" />
+</menu>
